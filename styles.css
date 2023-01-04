@@ -17,7 +17,7 @@ header{
     color:darkred;
     cursor:pointer;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 30px;
     margin-right: 100px;
 }
 
@@ -29,7 +29,7 @@ h1{
     color:goldenrod;
     background-color: antiquewhite;
     font-family: 'Dancing Script', cursive;
-    font-size: 70px;
+    font-size: 60px;
     text-align: center;
 }
 
