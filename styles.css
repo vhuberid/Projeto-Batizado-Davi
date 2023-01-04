@@ -1,0 +1,44 @@
+*{
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header{
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 25px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.header-links{
+    color:darkred;
+    cursor:pointer;
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    margin-right: 100px;
+}
+
+.img-header{
+    width: 100%;
+}
+
+h1{
+    color:goldenrod;
+    background-color: antiquewhite;
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+p{
+    color: teal;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: 700;
+}
